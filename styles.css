@@ -93,3 +93,7 @@ img {
     border-radius: 70px;
 }
 
+.video {
+    max-width: 80%;
+}
+
