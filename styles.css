@@ -89,6 +89,10 @@ img {
 }
 
 .final {
-    max-width: 50%;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 40px;
 }
+
+
 
